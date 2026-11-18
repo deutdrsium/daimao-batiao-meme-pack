@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "daimao-batiao-meme-pack",
+  "name": "呆猫八条表情包",
+  "version": "1.0.0",
+  "description": "收录 129 张呆猫八条 PNG 表情，供图片语义检索使用。",
+  "categories": {
+    "默认分类": {
+      "description": "全部原图的存放目录，逐张图片的含义由语义化任务生成。"
+    }
+  },
+  "homepage": "https://github.com/deutdrsium/daimao-batiao-meme-pack",
+  "source": {
+    "type": "github",
+    "repo": "deutdrsium/daimao-batiao-meme-pack",
+    "ref": "main",
+    "subpath": "."
+  }
+}
